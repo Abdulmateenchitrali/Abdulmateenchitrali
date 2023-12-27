@@ -16,6 +16,10 @@
     Your browser does not support the audio element.
   </audio>
 </p>
+<p>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="abdulmateenchitrali" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/abdulmateenchitrali?trk=profile-badge">Abdul Mateen</a></div>
+              
+</p>
 
 <p align="left">
   Welcome to my GitHub profile! I'm a skilled 𝙍𝙚𝙖𝙘𝙩 𝙉𝙖𝙩𝙞𝙫𝙚 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 specializing in 𝙢𝙤𝙗𝙞𝙡𝙚 𝙖𝙥𝙥 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 𝙖𝙣𝙙 𝙢𝙖𝙞𝙣𝙩𝙚𝙣𝙖𝙣𝙘𝙚. With expertise in 𝙋𝙡𝙖𝙮 𝙎𝙩𝙤𝙧𝙚 𝙖𝙣𝙙 𝘼𝙥𝙥 𝙎𝙩𝙤𝙧𝙚 𝙖𝙥𝙥 maintenance, I ensure that your apps are up to date, fully functional, and optimized for the best user experience.
@@ -35,75 +39,32 @@ Let's connect and discuss how I can contribute to your 𝙢𝙤𝙗𝙞𝙡𝙚 
   Let's connect and collaborate! Feel free to reach out via email or any of the social links above.
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/abdulmateentechbits/gif/blob/master/7LDs.gif" alt="Project Preview">
-</p>
-
-<h2 align="center">🚀 Featured Project: react-native-boilerplate 🚀</h2>
-
-<p align="left">
-  The repository "react-native-boilerplate" by Abdul Mateen is a comprehensive boilerplate project for React Native applications. It provides a solid foundation and structure to kickstart your React Native projects, saving you time and effort in setting up the initial project structure and configurations.
-
-This boilerplate includes essential features and common libraries typically used in React Native development, such as navigation, state management, and API integration. It follows best practices and conventions, making it easier to maintain and scale your React Native applications.
-
-By using this boilerplate, you can focus more on building your app's unique features and logic instead of spending time on repetitive setup tasks. It provides a standardized and organized project structure, ensuring code readability and maintainability.
-
-Whether you are starting a new React Native project or looking for a solid foundation to improve your existing project structure, this repository can serve as an excellent starting point. It allows you to accelerate your development process, reduce boilerplate code, and benefit from the expertise of the React Native community.
-
-Feel free to explore the repository, follow the installation instructions, and adapt it to your specific project requirements. Happy coding!
-</p>
-
-<p align="center">
-  Check out the project on GitHub: https://github.com/abdulmateentechbits/react-native-boilerplate
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.gifer.com/BOuY.gif" alt="Skills">
-</p>
-
-<h2 align="center">💼 Skills & Technologies 💼</h2>
-
-<p align="center">
-  - React Native Development
-  - React.js
-  - Next.js
-  - Laravel
-  - App Maintenance for Play Store & App Store
-  - Cross-Platform Development
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/stats.gif" alt="Stats">
-</p>
-
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulmateenchitrali&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulmateenchitrali&theme=radical" alt="GitHub Streak">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/abdulmateentechbits/your-repo/raw/main/assets/contributions.gif" alt="Contributions">
-</p>
 
 <h2 align="center">🤝 Contributions & Open Source 🤝</h2>
 
-<!---<p align="center">
-  Describe your involvement in open source projects, contributions made, and any notable achievements or recognition received. Encourage others to collaborate or contribute to open source as well.
-</p> --->
+<p align="left">
+  I am passionate about open source development and have actively contributed to various projects. My journey in the open source community has been incredibly rewarding, marked by collaboration, learning, and growth.
+
+  My contribution includes:
+  <h1>1. React Native Background Downloader Plus</h1>
+  
+  <a href="https://www.npmjs.com/package/react-native-background-downloader-plus">
+    <img src="https://raw.githubusercontent.com/abdulmateentechbits/abdulmateentechbits/master/bg%20downlaoder.png" width="150px" height="150px" alt="Library Image" />
+  </a>
+
+  [Fast downloader with download booster for react native](https://www.npmjs.com/package/react-native-background-downloader-plus): A library for React-Native to help you download large files on iOS and Android both in the foreground and most importantly in the background.
+  
+  I believe in the power of collaboration and welcome developers from all backgrounds to join hands. Together, we can create impactful solutions and shape the future of technology. Whether you're a seasoned developer or just starting, your contributions are valuable.
+
+  If you're interested in contributing to this project or have ideas to enhance it, please feel free to open an issue, submit a pull request, or reach out to me directly. Let's build something amazing together!
+</p>
+
+<h2>2. React Native Text Size Latest</h2>
+<p>
+  Measure text accurately before laying it out and get font information from your App (Android and iOS).
+</p>
+<p>Explore here <a href="https://www.npmjs.com/package/react-native-text-size-latest" target="blank">React Native Text Size Latest</a></p>
+
 
 ---
 
@@ -124,5 +85,5 @@ Once again, thank you for your interest and I look forward to hearing from you s
 </p>
 
 <p align="center">
-<img src="https://profile-counter.glitch.me/Abdulmateenchitrali/count.svg" alt="Visitor Count">
+<img src="https://profile-counter.glitch.me/abdulmateentechbits/count.svg" alt="Visitor Count">
 </p>
